@@ -37,4 +37,4 @@ main.py:主函数文件
 
 ## 结果
 
-待补充
+LSTM训练10个epochs后，loss为0.5355，acc为0.8482，val_loss为0.8660，val_acc为0.7786。
